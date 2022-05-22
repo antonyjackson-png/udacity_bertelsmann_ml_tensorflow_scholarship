@@ -1,0 +1,2 @@
+# udacity_bertelsmann_ml_tensorflow_scholarship
+my projects
